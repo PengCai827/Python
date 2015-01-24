@@ -17,5 +17,5 @@ else:
     if i % 2 == 1:
         print "That is an odd number."
     else:
-        print "That is twice", i / 2, '.'
+        print "That is twices", i / 2, '.'
     print "Wow! That's more than 20!"
